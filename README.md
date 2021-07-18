@@ -16,3 +16,5 @@ Few questions will be answered as part of the analysis:
 2. Recommendations for a customer for various options based on requirements.
 3. How are pricing and number of reviews related?
 
+The story can be found in medium:
+https://medium.com/@anirudh0993/a-glimpse-of-airbnb-seattle-data-2203e06181d0
