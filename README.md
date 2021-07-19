@@ -16,5 +16,15 @@ Few questions will be answered as part of the analysis:
 2. Recommendations for a customer for various options based on requirements.
 3. How are pricing and number of reviews related?
 
+Several Libraries used are: Pandas, Numpy, Seaborn
+
+The project contains a single Jupyter notebook: Seattle Airbnb Analysis Project 1.ipynb 
+This can be run via github, or imported in the Jupyter environment.
+
 The story can be found in medium:
 https://medium.com/@anirudh0993/a-glimpse-of-airbnb-seattle-data-2203e06181d0
+
+The data has been used from Kaggle:
+https://www.kaggle.com/airbnb/seattle/data
+
+Few observations that we found using our analysis includes finding recommended listings as per the requirements, identifying any correting factors that impact pricing and also any relation between pricing and the number of reviews.
